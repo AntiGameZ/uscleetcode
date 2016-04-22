@@ -1,7 +1,7 @@
 # uscleetcode
 Leetcode Premium Subscription 1 年订阅 USC 校友团购优惠事宜
 
-(LeetCode Premium Subscription)[http://leetcode.com/subscribe/] 是 LeetCode 提供的一项收费服务，原价 159 美元一年。和 LeetCode 官方沟通协商后，提供给 USC 校友团购优惠，**凡拥有 usc.edu 邮箱的校友参与团购，满 20 人，即可享受 99 美元一年的 LeetCode Premium Subcription 的团购优惠。** 具体操作方式如下：
+[LeetCode Premium Subscription](http://leetcode.com/subscribe/) 是 LeetCode 提供的一项收费服务，原价 159 美元一年。和 LeetCode 官方沟通协商后，提供给 USC 校友团购优惠，**凡拥有 usc.edu 邮箱的校友参与团购，满 20 人，即可享受 99 美元一年的 LeetCode Premium Subcription 的团购优惠。** 具体操作方式如下：
 
 * 请至 http://leetcode.com/subscribe/ 购买 159 美元的 LeetCode Premium Subscription 1年期服务；
 * 请您使用 usc.edu 邮箱发送您的 LeetCode 账号信息给我（微信号 chensijieha ）；
