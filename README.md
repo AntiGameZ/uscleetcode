@@ -15,5 +15,5 @@
 2. c******h[at]usc.edu
 3. z******0[at]usc.edu
 4. y******g[at]usc.edu
-5. k******h@usc.edu
+5. k******h[at]usc.edu
 6. 虚位以待……
