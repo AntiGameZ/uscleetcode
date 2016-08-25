@@ -1,3 +1,26 @@
+## Leetcode Premium One Year Subscription Discount for USC Students
+[LeetCode Premium Subscription](http://leetcode.com/subscribe/) is a paid service offered at $159/year by Leetcode. I personally contacted Leetcode team and they are pleased to offer a discount for usc alumni. ** If number of people purchasing the 1-year subscription with usc emails counted to 20, then the 20 can enjoy a 1-year subscription at $99.** 
+
+Here is how to get the deal:
+
+* Go to http://leetcode.com/subscribe/ and purchase a one-year subscription of LeetCode Premium；
+* Take a screenshot of your [subscription status page](http://leetcode.com/subscription/) and send it to sijieche[at]usc.edu or WeChat:chensijieha with your Leetcode login id using or along with your USC email.
+* When purchases count to 20, I will submit a member list to LeetCode. Then LeetCode will refund $60 to everyone.
+* LeetCode promised that they will grant me another 1-year free subscription if the plan goes. So to keep things fair, I will give back $5 to everyone of the 20 people individually.
+* **Warning**: If eventually less than 20 people joined this program,  discount condition won't be trigged and everyone won't get the $60 refund.
+
+**I'll list people who have joined this program here:**
+
+1. s******e[at]usc.edu (This is me!)
+2. c******h[at]usc.edu
+3. z******0[at]usc.edu
+4. y******g[at]usc.edu
+5. k******h[at]usc.edu
+6. 虚位以待……
+
+
+
+
 ## Leetcode Premium Subscription 1 年订阅 USC 校友团购优惠事宜
 
 
