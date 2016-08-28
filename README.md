@@ -17,7 +17,8 @@ Here is how to get the deal:
 4. y******g[at]usc.edu
 5. k******h[at]usc.edu
 6. z******n[at]usc.edu
-7. TBC...
+7. j******w@usc.edu
+8. TBC...
 
 
 
@@ -41,4 +42,5 @@ Here is how to get the deal:
 4. y******g[at]usc.edu
 5. k******h[at]usc.edu
 6. z******n[at]usc.edu
-7. 虚位以待……
+7. j******w@usc.edu
+8. 虚位以待……
