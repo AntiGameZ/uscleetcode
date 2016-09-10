@@ -20,7 +20,7 @@ Here is how to get the deal:
 7. j******w[at]usc.edu
 8. h******h[at]usc.edu
 9. s******h[at]usc.edu
-10.l******n[at]usc.edu
+10. l******n[at]usc.edu
 11. TBC...
 
 
