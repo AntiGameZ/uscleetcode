@@ -22,7 +22,28 @@ Here is how to get the deal:
 9. s******h[at]usc.edu
 10. l******n[at]usc.edu
 11. z******0[at]usc.edu
-12. TBC...
+12. l******a[at]usc.edu
+13. m******c[at]usc.edu
+14. h******h[at]usc.edu
+15. b******e[at]usc.edu
+16. z******u[at]usc.edu
+17. m******y[at]usc.edu
+18. h******h[at]usc.edu
+19. t******x[at]usc.edu
+20. w******5[at]usc.edu
+21. b******z[at]usc.edu
+22. y******u[at]usc.edu
+23. h******g[at]usc.edu
+24. g******l[at]usc.edu
+25. z******5[at]usc.edu
+26. h******u[at]usc.edu
+27. j*****hu[at]usc.edu
+28. j*****yu[at]usc.edu
+29. h******s[at]usc.edu
+30. j******s[at]usc.edu
+31. h*****gh[at]usc.edu
+32. z******i[at]usc.edu
+33. TBC...
 
 
 
@@ -40,7 +61,7 @@ Here is how to get the deal:
 
 **已参与团购的同学，我会将您的 usc.edu 邮箱列在此处（会做必要的隐私处理）：**
 
-1. s******e[at]usc.edu (这是我啦)
+1. s******e[at]usc.edu (This is me!)
 2. c******h[at]usc.edu
 3. z******0[at]usc.edu
 4. y******g[at]usc.edu
@@ -51,4 +72,25 @@ Here is how to get the deal:
 9. s******h[at]usc.edu
 10. l******n[at]usc.edu
 11. z******0[at]usc.edu
-12. 虚位以待……
+12. l******a[at]usc.edu
+13. m******c[at]usc.edu
+14. h******h[at]usc.edu
+15. b******e[at]usc.edu
+16. z******u[at]usc.edu
+17. m******y[at]usc.edu
+18. h******h[at]usc.edu
+19. t******x[at]usc.edu
+20. w******5[at]usc.edu
+21. b******z[at]usc.edu
+22. y******u[at]usc.edu
+23. h******g[at]usc.edu
+24. g******l[at]usc.edu
+25. z******5[at]usc.edu
+26. h******u[at]usc.edu
+27. j*****hu[at]usc.edu
+28. j*****yu[at]usc.edu
+29. h******s[at]usc.edu
+30. j******s[at]usc.edu
+31. h*****gh[at]usc.edu
+32. z******i[at]usc.edu
+33. TBC...
