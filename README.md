@@ -47,7 +47,9 @@ Here is how to get the deal:
 34. w******e[at]usc.edu
 35. z******x[at]usc.edu
 36. z******w[at]usc.edu
-37. TBC...
+37. l******d[at]usc.edu
+38. r******w[at]usc.edu
+39. l******1[at]usc.edu
 
 
 
@@ -101,4 +103,6 @@ Here is how to get the deal:
 34. w******e[at]usc.edu
 35. z******x[at]usc.edu
 36. z******w[at]usc.edu
-37. TBC...
+37. l******d[at]usc.edu
+38. r******w[at]usc.edu
+39. l******1[at]usc.edu
