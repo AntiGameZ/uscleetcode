@@ -1,3 +1,5 @@
+### UPDATE: This offer was finalized.
+
 ## Leetcode Premium One Year Subscription Discount for USC Students
 [LeetCode Premium Subscription](http://leetcode.com/subscribe/) is a paid service offered at $159/year by Leetcode. I personally contacted Leetcode team and they are pleased to offer a discount for usc alumni. ** If number of people purchasing the 1-year subscription with usc emails counted to 20, then the 20 can enjoy a 1-year subscription at $99.** 
 
@@ -53,7 +55,7 @@ Here is how to get the deal:
 40. y******j[at]usc.edu 
 
 
-
+### UPDATE: 本次团购已经结束
 
 ## Leetcode Premium Subscription 1 年订阅 USC 校友团购优惠事宜
 
